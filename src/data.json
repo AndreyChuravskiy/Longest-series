@@ -1,0 +1,36 @@
+{
+	"star_trek": {
+		"events": ["","","","","",""],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "ZLPll5P_4J8",
+		"mapCoordinates": [34.084150844305306, -118.3176331771056]
+	},
+
+	"doctor_who": {
+		"events": ["","","","",""],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "aiPzfoALZVw",
+		"mapCoordinates": [51.3432, -3.1807]
+	},
+
+	"supernatural": {
+		"events": ["","","","",""],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "4qPrOBChygg",
+		"mapCoordinates": [49.263134888722675, -123.0206042131757]
+	},
+
+	"the_simpsons": {
+		"events": ["","","","","","",""],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "TDIfmg_rwtY",
+		"mapCoordinates": [44.054167, -123.021944]
+	},
+
+	"general_hospital": {
+		"events": ["","","","","",""],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "GKHlCn-5ax0",
+		"mapCoordinates": [52.765155, 23.186793]
+	}
+}

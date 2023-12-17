@@ -1,0 +1,152 @@
+.series-section2 {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-image: url("../img/back3.jpg");
+	width: 100%;
+	align-items: center;
+}
+
+.series-card {
+	background-color: rgba(0,0,0,0) !important;
+	border: none !important;
+	width: 80%;
+	flex-direction: row !important;
+	align-items: center;
+	animation: animatop 0.9s cubic-bezier(0.425, 1.14, 0.47, 1.125) forwards;
+}
+@keyframes animatop {
+	0% {
+		opacity: 0;
+		bottom: -500px;
+	}
+	100% {
+		opacity: 1;
+		bottom: 0px;
+	}
+}
+
+.series-photo {
+	width: 20% !important;
+	filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
+}
+
+.series-name,
+.series-years {
+	font-family: Playfair;
+	font-weight: 500;
+	color: white;
+	font-size: 30px !important;
+}
+
+.series-name2 {
+	color: rgb(255, 0, 0);
+	font-size: 3em !important;
+}
+
+.series-description {
+	font-family: Playfair;
+	font-weight: 400;
+	color: white;
+	font-size: 1.2em;
+	width: 100%;
+}
+
+.vertical-info {
+	width: 80% !important;
+}
+
+.vertical-timeline-element-date-element {
+	color: rgb(255, 0, 0) !important;
+	font-size: 2em !important;
+	padding: 0 !important;
+}
+.vertical-timeline-element-content {
+	box-shadow: 0 3px 0 #1495db !important;
+}
+
+.works-carousel {
+	margin-top: 40px;
+	width: 90%;
+	text-align: center;
+}
+
+.carousel-image {
+	max-width: 90% !important;
+}
+
+.carousel-caption {
+	font-family: Playfair;
+	font-weight: 400;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	position: static !important;
+}
+
+.video-wrapper {
+	width: 60%;
+}
+
+.series-video {
+	width: 100%;
+	margin-top: 20px;
+	height: 600px;
+
+}
+
+.series-map {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 600px;
+	width: 1100px;
+}
+
+@media only screen and (max-width: 992px) {
+	.series-photo {
+		height: 40% !important;
+		width: 40% !important;
+	}
+
+	.series-section {
+		width: 100% !important;
+	}
+
+	.series-card {
+		flex-direction: column !important;
+		align-items: center !important;
+	}
+
+	.series-video,
+	.series-map {
+		height: 450px;
+	}
+
+	.series-info {
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.series-section {
+		width: 100% !important;
+	}
+
+	.series-card {
+		flex-direction: column !important;
+		align-items: center !important;
+	}
+
+	.series-info {
+		text-align: center;
+	}
+
+	.series-photo {
+		height: 60% !important;
+		width: 60% !important;
+	}
+
+	.series-video,
+	.series-map {
+		height: 250px;
+	}
+}

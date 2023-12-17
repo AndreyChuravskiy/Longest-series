@@ -1,0 +1,165 @@
+.series-list-card {
+    background-color: rgba(0, 0, 0, 0) !important;
+    align-items: center;
+    display: flex;
+    border: none!important;
+}
+
+.series-card {
+    display: flex;
+    border: none!important;
+}
+
+.series-list-group {
+    align-items: center;
+}
+
+.series-list-item {
+    background: rgba(0, 0, 0, 0) !important;
+    display: flex;
+    align-items: center;
+    border: none!important;
+}
+
+.series-list-card,
+.series-list-group,
+.series-list-item {
+    width: auto !important;
+}
+
+.series-photo {
+    width: 15%;
+    max-width: 100%;
+    margin-right: 20px;
+}
+
+.series-block {
+    background-image: url("../img/fon2.png");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+.series-list-item:hover {
+    background-color: #111328 !important;
+    opacity: 0.8;
+}
+
+.series-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    border: none;
+}
+
+.search-form {
+    width: 100%;
+    padding-right: 1%;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: 0;
+    max-width: 400px;
+}
+
+.series-inf {
+    padding: 2%;
+    flex: 1;
+}
+.series-list-item:hover{
+    background-color: #111328 !important;
+    opacity: 0.8;
+    align-items: center;
+}
+.series-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.search-form {
+    width: 25%;
+    padding-right: 1%;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.search-box {
+    border-radius: 10px;
+}
+
+.search-box::placeholder {
+    font-style: italic;
+    color: white;
+}
+
+.series-fio {
+    font-family: Playfair;
+    font-size: 2.1em;
+    margin-bottom: 0;
+    color: white;
+}
+.series-descr {
+    font-family: Playfair;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+.series-authors{
+    font-family: Playfair;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+.series-authors::first-letter {
+    color: red;
+}
+.series-composers{
+    font-family: Playfair;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+.series-composers::first-letter {
+    color: red;
+}
+.series-ex_prod{
+    font-family: Playfair;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+.series-ex_prod::first-letter {
+    color: red;
+}
+.series-main_char{
+    font-family: Playfair;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+.series-main_char::first-letter {
+    color: red;
+}
+@media only screen and (max-width: 992px) {
+    .series-wrapper {
+        flex-direction: column;
+    }
+
+    .search-form {
+        width: 90%;
+        padding-top: 30px;
+    }
+}
