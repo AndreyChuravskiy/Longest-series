@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Longest-series/static/css/main.f7eae7b4.css",
+    "main.js": "/Longest-series/static/js/main.1f8c777c.js",
+    "static/js/787.c2090b34.chunk.js": "/Longest-series/static/js/787.c2090b34.chunk.js",
+    "static/media/Andrei_Churavsky.jpg": "/Longest-series/static/media/Andrei_Churavsky.79f13c2e297522fff429.jpg",
+    "static/media/fface.png": "/Longest-series/static/media/fface.3b83b81d5ee357d35d43.png",
+    "static/media/back4.png": "/Longest-series/static/media/back4.b6f12d8df2b8a32a2f5b.png",
+    "static/media/fon2.png": "/Longest-series/static/media/fon2.5fd12a3a245e31df4e70.png",
+    "static/media/1.png": "/Longest-series/static/media/1.dd6197ebdf7b746189f5.png",
+    "static/media/2.png": "/Longest-series/static/media/2.d117f4bd6a023f7e53bf.png",
+    "static/media/3.png": "/Longest-series/static/media/3.9d11def8ca8a6dccdd29.png",
+    "static/media/bckg_about.png": "/Longest-series/static/media/bckg_about.d5fb343980e58fd3b43c.png",
+    "static/media/back5.jpg": "/Longest-series/static/media/back5.72ffdff48e53dbd09338.jpg",
+    "static/media/Milena_Korotkaia.jpg": "/Longest-series/static/media/Milena_Korotkaia.fcb4e3873d08c7e32b3e.jpg",
+    "static/media/3.ttf": "/Longest-series/static/media/3.27705d9c43e8c36b1abd.ttf",
+    "static/media/1.ttf": "/Longest-series/static/media/1.9cc773ceac9236a65b30.ttf",
+    "static/media/Anton_Huscha.jpg": "/Longest-series/static/media/Anton_Huscha.380b2a42b1ec4ffea38c.jpg",
+    "static/media/2.ttf": "/Longest-series/static/media/2.2b5b319b99ef3d7e7ecb.ttf",
+    "static/media/back_info.png": "/Longest-series/static/media/back_info.3056325ddf2fbc4c3825.png",
+    "static/media/Namyv-Light.ttf": "/Longest-series/static/media/Namyv-Light.4320c106a5106a1b3029.ttf",
+    "static/media/Camera.png": "/Longest-series/static/media/Camera.2c121e652db236069600.png",
+    "static/media/back3.jpg": "/Longest-series/static/media/back3.04a3597d6fd030c7ccff.jpg",
+    "static/media/flagEng.svg": "/Longest-series/static/media/flagEng.7d7054d248e39d2372b968c7d6dbe557.svg",
+    "static/media/flagRus.svg": "/Longest-series/static/media/flagRus.8b29f558923616968f75591b1f324d1c.svg",
+    "index.html": "/Longest-series/index.html",
+    "static/media/getFetch.cjs": "/Longest-series/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.f7eae7b4.css.map": "/Longest-series/static/css/main.f7eae7b4.css.map",
+    "main.1f8c777c.js.map": "/Longest-series/static/js/main.1f8c777c.js.map",
+    "787.c2090b34.chunk.js.map": "/Longest-series/static/js/787.c2090b34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7eae7b4.css",
+    "static/js/main.1f8c777c.js"
+  ]
+}
