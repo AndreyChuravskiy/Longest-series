@@ -2,4 +2,4 @@
 
 the second project in the discipline "frontend"
 
-https://ssdishnik.github.io/Longest-series/
+https://AndreyChuravskiy.github.io/Longest-series/
